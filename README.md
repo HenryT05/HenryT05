@@ -10,13 +10,12 @@ I am Seeking an entry-level Help Desk role to help gain neccessary experience to
 ## Skills
 | Skill | Associated Project |
 |---|---|
-| Active Directory Domain Services (AD DS) deployment & basic administration | <a href="YOUR-REPO-LINK">Active Directory Home Lab</a> [file:1] |
-| User & group administration (create users, add to groups, password resets, unlock accounts) | <a href="YOUR-REPO-LINK">Active Directory Home Lab</a> [file:1] |
-| Organizational Units (OUs) design and user organization | <a href="YOUR-REPO-LINK">Active Directory Home Lab</a> [file:1] |
-| Group Policy Objects (GPO): wallpaper deployment + restricting wallpaper changes | <a href="YOUR-REPO-LINK">Active Directory Home Lab</a> [file:1] |
-| Account lockout policy configuration and validation | <a href="YOUR-REPO-LINK">Active Directory Home Lab</a> [file:1] |
-| SMB share + NTFS permissions using security groups (least privilege) | <a href="YOUR-REPO-LINK">Active Directory Home Lab</a> [file:1] |
-| PowerShell automation with Active Directory module (user onboarding, password reset) | <a href="YOUR-REPO-LINK">Active Directory Home Lab</a> [file:1] |
+| Active Directory Domain Services (AD DS) deployment & basic administration | <a href="https://github.com/HenryT05/Active-Directory-Home-Lab/blob/main/README.md#1-lab-environment--domain-setup">Active Directory Home Lab</a>  |
+| User & group administration (create users, add to groups, password resets, unlock accounts) | <a href="https://github.com/HenryT05/Active-Directory-Home-Lab/blob/main/README.md#3-creating-organizational-units-and-groups-and-set-least-privilege-settings">Active Directory Home Lab</a> |
+| Organizational Units (OUs) design and user organization | <a href="https://github.com/HenryT05/Active-Directory-Home-Lab/blob/main/README.md#3-creating-organizational-units-and-groups-and-set-least-privilege-settings">Active Directory Home Lab</a> |
+| Group Policy Objects (GPO): wallpaper deployment + restricting wallpaper changes | <a href="https://github.com/HenryT05/Active-Directory-Home-Lab/blob/main/README.md#4-group-policy-objects-gpos">Active Directory Home Lab</a> |
+| Account lockout policy configuration and validation | <a href="https://github.com/HenryT05/Active-Directory-Home-Lab/blob/main/README.md#5-account-lockout-policy--password-resets">Active Directory Home Lab</a> |
+| PowerShell automation with Active Directory module (user onboarding, password reset) | <a href="https://github.com/HenryT05/Active-Directory-Home-Lab/blob/main/README.md#6-powershell-script-for-onboarding">Active Directory Home Lab</a> |
 
 ## Tools 
 ### Windows / Identity 
@@ -40,9 +39,4 @@ I am Seeking an entry-level Help Desk role to help gain neccessary experience to
 
 
 ## Projects
-- Active Directory Home Lab (Windows Server 2025 + Windows 11) — <a href="YOUR-REPO-LINK">GitHub Repo</a> 
-  - Built a domain environment (LAB.local), joined a Windows 11 workstation, and verified domain connectivity. 
-  - Administered users/groups/OUs and demonstrated help-desk workflows (password reset, account unlock, group membership changes).
-  - Implemented GPOs (department wallpaper + preventing wallpaper changes) and tested results with Engineering users. 
-  - Configured access-controlled file sharing using security groups (EngineeringShare) and validated access/denial from different users. 
-  - Automated onboarding/password tasks with PowerShell and validated changes via AD cmdlets. 
+- Active Directory Home Lab (Windows Server 2025 + Windows 11) — <a href="https://github.com/HenryT05/Active-Directory-Home-Lab/blob/main/README.md#active-directory-home-lab">GitHub Repo</a> 

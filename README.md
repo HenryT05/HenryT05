@@ -2,8 +2,8 @@
 <a href="https://www.linkedin.com/in/henry-tran-54664733a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
 ## Brief Introduction
-I’m an Sophmore college student at The University Of Washington. And I am Interested in getting involved in the Cybersecurity field. I am also enrolled in HackTheBox Academy learning many cybersecurity tools and more.
-
+I’m an Sophmore college student at The University Of Washington. And I am Interested in getting involved in the Cybersecurity field. I am also enrolled in HackTheBox Academy learning many cybersecurity tools and more. I am open to internships/help desk roles.
+​
 ## Objective 
 I am Seeking an entry-level Help Desk role to help gain neccessary experience to succeed in the Cybersecurity industry.
 
@@ -39,4 +39,5 @@ I am Seeking an entry-level Help Desk role to help gain neccessary experience to
 
 
 ## Projects
-- Active Directory Home Lab (Windows Server 2025 + Windows 11) — <a href="https://github.com/HenryT05/Active-Directory-Home-Lab/blob/main/README.md#active-directory-home-lab">GitHub Repo</a> 
+- Active Directory Home Lab (Windows Server 2025 + Windows 11) — <a href="https://github.com/HenryT05/Active-Directory-Home-Lab/blob/main/README.md#active-directory-home-lab">GitHub Repo</a>
+(Demonstrated AD user/group admin, GPOs, account lockouts, and PowerShell automation in a virtual lab.)

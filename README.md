@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/henry-tran-54664733a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
 ## Brief Introduction
-I’m an Sophmore college student at The University Of Washington. And I am Interested in getting involved in the Cybersecurity field.
+I’m an Sophmore college student at The University Of Washington. And I am Interested in getting involved in the Cybersecurity field. I am also enrolled in HackTheBox Academy learning many cybersecurity tools and more.
 
 ## Objective 
 I am Seeking an entry-level Help Desk role to help gain neccessary experience to succeed in the Cybersecurity industry.

@@ -39,5 +39,5 @@ I am Seeking an entry-level Help Desk role to help gain neccessary experience to
 
 
 ## Projects
-- Active Directory Home Lab (Windows Server 2025 + Windows 11) — <a href="https://github.com/HenryT05/Active-Directory-Home-Lab/blob/main/README.md#active-directory-home-lab">GitHub Repo</a>
-(Demonstrated AD user/group admin, GPOs, account lockouts, and PowerShell automation in a virtual lab.)
+<a href="https://github.com/HenryT05/Active-Directory-Home-Lab?tab=readme-ov-file#active-directory-home-lab">Active Directory Home Lab</a>
+-Demonstrated AD user/group admin, GPOs, account lockouts, and PowerShell automation in a virtual lab.

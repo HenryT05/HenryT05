@@ -24,7 +24,6 @@ I am Seeking an entry-level Help Desk role to help gain neccessary experience to
 - Active Directory Users and Computers (ADUC)
 - Group Policy Management Console (GPMC)
 - PowerShell (ActiveDirectory/RSAT tooling)
-- 
 
 ### Lab / Virtualization 
 - Oracle VirtualBox

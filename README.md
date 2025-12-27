@@ -13,7 +13,7 @@ I am Seeking an entry-level Help Desk role to help gain neccessary experience to
 | Active Directory Domain Services (AD DS) deployment & basic administration | <a href="https://github.com/HenryT05/Active-Directory-Home-Lab/blob/main/README.md#1-lab-environment--domain-setup">Active Directory Home Lab</a>  |
 | User & group administration (create users, add to groups, password resets, unlock accounts) | <a href="https://github.com/HenryT05/Active-Directory-Home-Lab/blob/main/README.md#3-creating-organizational-units-and-groups-and-set-least-privilege-settings">Active Directory Home Lab</a> |
 | Organizational Units (OUs) design and user organization | <a href="https://github.com/HenryT05/Active-Directory-Home-Lab/blob/main/README.md#3-creating-organizational-units-and-groups-and-set-least-privilege-settings">Active Directory Home Lab</a> |
-| Group Policy Objects (GPO): wallpaper deployment + restricting wallpaper changes | <a href="https://github.com/HenryT05/Active-Directory-Home-Lab/blob/main/README.md#4-group-policy-objects-gpos">Active Directory Home Lab</a> |
+| Group Policy Objects (GPO): restricting control panel, auto locking screens, and delagating users | <a href="https://github.com/HenryT05/random/blob/main/README.md#6-helpdesk-functions">Active Directory Home Lab</a> |
 | Account lockout policy configuration and validation | <a href="https://github.com/HenryT05/Active-Directory-Home-Lab/blob/main/README.md#5-account-lockout-policy--password-resets">Active Directory Home Lab</a> |
 | PowerShell automation with Active Directory module (user onboarding, password reset) | <a href="https://github.com/HenryT05/Active-Directory-Home-Lab/blob/main/README.md#6-powershell-script-for-onboarding">Active Directory Home Lab</a> |
 
@@ -40,4 +40,4 @@ I am Seeking an entry-level Help Desk role to help gain neccessary experience to
 
 ## Projects
 <a href="https://github.com/HenryT05/Active-Directory-Home-Lab?tab=readme-ov-file#active-directory-home-lab">Active Directory Home Lab</a>
--Demonstrated AD user/group admin, GPOs, account lockouts, and PowerShell automation in a virtual lab.
+-Demonstrated AD user/group admin, GPOs, account lockouts, PowerShell automation, restricting control panel, auto locking screens, and delagating users in a virtual lab.

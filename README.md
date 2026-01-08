@@ -17,8 +17,8 @@ I am Seeking an entry-level Help Desk role to help gain neccessary experience to
 | Account lockout policy configuration and validation | <a href="https://github.com/HenryT05/Active-Directory-Home-Lab/blob/main/README.md#5-account-lockout-policy--password-resets">Active Directory Home Lab</a> |
 | PowerShell automation with Active Directory module (user onboarding, password reset) | <a href="https://github.com/HenryT05/Active-Directory-Home-Lab/blob/main/README.md#6-powershell-script-for-onboarding">Active Directory Home Lab</a> |
 | AWS Compute Fundamentals. | <a href="https://github.com/HenryT05/AWS-HomeLab-Project?tab=readme-ov-file#aws-cloud-infrastructure--web-server-lab">AWS Cloud Infrastructure & Web Server Lab</a> |
-| Cloud Network Security: Configuring AWS Security Groups and creating firewall policies. | <a href="https://github.com/HenryT05/AWS-HomeLab-Project?tab=readme-ov-file#aws-cloud-infrastructure--web-server-lab">AWS Cloud Infrastructure & Web Server Lab</a> |
-| Web Server Deployment: Installing and configuring the Apache HTTP Server to host an webpage that is accesible through a browser. | <a href="https://github.com/HenryT05/AWS-HomeLab-Project?tab=readme-ov-file#aws-cloud-infrastructure--web-server-lab">AWS Cloud Infrastructure & Web Server Lab</a> |
+| Cloud Network Security: Configuring AWS Security Groups and creating firewall policies. | <a href="https://github.com/HenryT05/AWS-HomeLab-Project#3-setting-up-firewall-rules-and-installing-an-apache2-web-server">AWS Cloud Infrastructure & Web Server Lab</a> |
+| Web Server Deployment: Installing and configuring the Apache HTTP Server to host an webpage that is accesible through a browser. | <a href="https://github.com/HenryT05/AWS-HomeLab-Project#3-setting-up-firewall-rules-and-installing-an-apache2-web-server">AWS Cloud Infrastructure & Web Server Lab</a> |
 
 ## Tools 
 ### Windows / Identity 

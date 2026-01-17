@@ -28,6 +28,9 @@ I am Seeking an entry-level Help Desk role to help gain neccessary experience to
 - Active Directory Users and Computers (ADUC)
 - Group Policy Management Console (GPMC)
 - PowerShell (ActiveDirectory/RSAT tooling)
+- Raspberry Pi Zero 2 W
+- SSH (Secure Shell) - Remote terminal access
+- Tailscale - VPN service for remote access and DNS routing
 
 ### Cloud / Infrastructure
 - Amazon Web Services (AWS): EC2 and Security Groups

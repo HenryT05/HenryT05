@@ -50,8 +50,11 @@ I am Seeking an entry-level Help Desk role to help gain neccessary experience to
 
 ## Projects
 <a href="https://github.com/HenryT05/Active-Directory-Home-Lab?tab=readme-ov-file#active-directory-home-lab">Active Directory Home Lab</a>
--Demonstrated AD user/group admin, GPOs, account lockouts, PowerShell automation, restricting control panel, auto locking screens, and delagating users in a virtual lab.
+- Demonstrated AD user/group admin, GPOs, account lockouts, PowerShell automation, restricting control panel, auto locking screens, and delagating users in a virtual lab.
 
 <a href="https://github.com/HenryT05/AWS-HomeLab-Project?tab=readme-ov-file#aws-cloud-infrastructure--web-server-lab">AWS Cloud Infrastructure & Web Server Lab</a>
--Provisioned an Ubuntu EC2 instance, secured network endpoints with Security Group firewalls, managed remote access via SSH key pairs, and deployed a live Apache web server.
+- Provisioned an Ubuntu EC2 instance, secured network endpoints with Security Group firewalls, managed remote access via SSH key pairs, and deployed a live Apache web server.
+
+<a href="https://github.com/HenryT05/Raspberry-Pi-Network-Wide-Adblock-Project">Raspberry Pi Network-Wide Adblocker</a> 
+- Created a network-wide ad-blocking solution using a Raspberry Pi Zero 2 W and Pi-hole. Paired with Tailscale VPN to create ad-blocking functions even when away from home network.
 

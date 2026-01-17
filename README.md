@@ -19,6 +19,8 @@ I am Seeking an entry-level Help Desk role to help gain neccessary experience to
 | AWS Compute Fundamentals. | <a href="https://github.com/HenryT05/AWS-HomeLab-Project?tab=readme-ov-file#aws-cloud-infrastructure--web-server-lab">AWS Cloud Infrastructure & Web Server Lab</a> |
 | Cloud Network Security: Configuring AWS Security Groups and creating firewall policies. | <a href="https://github.com/HenryT05/AWS-HomeLab-Project#3-setting-up-firewall-rules-and-installing-an-apache2-web-server">AWS Cloud Infrastructure & Web Server Lab</a> |
 | Web Server Deployment: Installing and configuring the Apache HTTP Server to host an webpage that is accesible through a browser. | <a href="https://github.com/HenryT05/AWS-HomeLab-Project#3-setting-up-firewall-rules-and-installing-an-apache2-web-server">AWS Cloud Infrastructure & Web Server Lab</a> |
+| Pi-hole installation & SSH connection & DNS server management | <a href="https://github.com/HenryT05/Raspberry-Pi-Network-Wide-Adblock-Project">Raspberry Pi Network-Wide Adblocker</a> |
+| DNS-based ad-blocking and network-level filtering techniques | <a href="https://github.com/HenryT05/Raspberry-Pi-Network-Wide-Adblock-Project">Raspberry Pi Network-Wide Adblocker</a> |
 
 ## Tools 
 ### Windows / Identity 

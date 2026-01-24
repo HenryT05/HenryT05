@@ -21,6 +21,7 @@ I am Seeking an entry-level Help Desk role to help gain neccessary experience to
 | Web Server Deployment: Installing and configuring the Apache HTTP Server to host an webpage that is accesible through a browser. | <a href="https://github.com/HenryT05/AWS-HomeLab-Project#3-setting-up-firewall-rules-and-installing-an-apache2-web-server">AWS Cloud Infrastructure & Web Server Lab</a> |
 | Pi-hole installation & SSH connection & DNS server management | <a href="https://github.com/HenryT05/Raspberry-Pi-Network-Wide-Adblock-Project">Raspberry Pi Network-Wide Adblocker</a> |
 | DNS-based ad-blocking and network-level filtering techniques | <a href="https://github.com/HenryT05/Raspberry-Pi-Network-Wide-Adblock-Project">Raspberry Pi Network-Wide Adblocker</a> |
+| Understanding OWASP Top 10 vulnerabilities | <a href="https://github.com/HenryT05/OWASP-Top-10-Room-Learning">OWASP Top 10 2025 - Learning Project</a> |
 
 ## Tools 
 ### Windows / Identity 
@@ -31,6 +32,9 @@ I am Seeking an entry-level Help Desk role to help gain neccessary experience to
 - Raspberry Pi Zero 2 W
 - SSH (Secure Shell) - Remote terminal access
 - Tailscale - VPN service for remote access and DNS routing
+- TryHackMe Platform
+- CyberChef
+- Burp Suite
 
 ### Cloud / Infrastructure
 - Amazon Web Services (AWS): EC2 and Security Groups
@@ -40,6 +44,7 @@ I am Seeking an entry-level Help Desk role to help gain neccessary experience to
 ### Lab / Virtualization 
 - Oracle VirtualBox
 - Windows 11 VM (domain-joined client)
+- Kali Linux VM
 
 ## Certifications
 <a href="https://cp.certmetrics.com/comptia/en/public/verify/credential/DND7BCZS0FVQQJ12">
@@ -60,4 +65,7 @@ I am Seeking an entry-level Help Desk role to help gain neccessary experience to
 
 <a href="https://github.com/HenryT05/Raspberry-Pi-Network-Wide-Adblock-Project">Raspberry Pi Network-Wide Adblocker</a> 
 - Created a network-wide ad-blocking solution using a Raspberry Pi Zero 2 W and Pi-hole. Paired with Tailscale VPN to create ad-blocking functions even when away from home network.
+
+<a href="https://github.com/HenryT05/OWASP-Top-10-Room-Learning">OWASP Top 10 2025 - Learning Project</a>
+- learning and exploiting the many security risks outlined in the OWASP Top 10 2025 list
 

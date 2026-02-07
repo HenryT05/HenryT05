@@ -12,7 +12,6 @@ I am Seeking an entry-level Help Desk role to help gain neccessary experience to
 |---|---|
 | Active Directory Domain Services (AD DS) deployment & basic administration | <a href="https://github.com/HenryT05/Active-Directory-Home-Lab/blob/main/README.md#1-lab-environment--domain-setup">Active Directory Home Lab</a>  |
 | User & group administration (create users, add to groups, password resets, unlock accounts) | <a href="https://github.com/HenryT05/Active-Directory-Home-Lab/blob/main/README.md#3-creating-organizational-units-and-groups-and-set-least-privilege-settings">Active Directory Home Lab</a> |
-| Organizational Units (OUs) design and user organization | <a href="https://github.com/HenryT05/Active-Directory-Home-Lab/blob/main/README.md#3-creating-organizational-units-and-groups-and-set-least-privilege-settings">Active Directory Home Lab</a> |
 | Group Policy Objects (GPO) restricting control panel, auto locking screens, and delegating users | <a href="https://github.com/HenryT05/random/blob/main/README.md#6-helpdesk-functions">Active Directory Home Lab</a> |
 | Account lockout policy configuration and validation | <a href="https://github.com/HenryT05/Active-Directory-Home-Lab/blob/main/README.md#5-account-lockout-policy--password-resets">Active Directory Home Lab</a> |
 | PowerShell automation with Active Directory module (user onboarding, password reset) | <a href="https://github.com/HenryT05/Active-Directory-Home-Lab/blob/main/README.md#6-powershell-script-for-onboarding">Active Directory Home Lab</a> |
@@ -22,6 +21,7 @@ I am Seeking an entry-level Help Desk role to help gain neccessary experience to
 | Pi-hole installation & SSH connection & DNS server management | <a href="https://github.com/HenryT05/Raspberry-Pi-Network-Wide-Adblock-Project">Raspberry Pi Network-Wide Adblocker</a> |
 | DNS-based ad-blocking and network-level filtering techniques | <a href="https://github.com/HenryT05/Raspberry-Pi-Network-Wide-Adblock-Project">Raspberry Pi Network-Wide Adblocker</a> |
 | Understanding OWASP Top 10 vulnerabilities | <a href="https://github.com/HenryT05/OWASP-Top-10-Room-Learning">OWASP Top 10 2025 - Learning Project</a> |
+| Python scripting for Scanning ports | <a href="https://github.com/HenryT05/Python_Port_Scanner_Project">Simple Python Nmap Port Scanner</a> |
 
 ## Tools 
 ### Windows / Identity 
@@ -35,6 +35,7 @@ I am Seeking an entry-level Help Desk role to help gain neccessary experience to
 - TryHackMe Platform
 - CyberChef
 - Burp Suite
+- Python
 
 ### Cloud / Infrastructure
 - Amazon Web Services (AWS): EC2 and Security Groups
@@ -68,4 +69,7 @@ I am Seeking an entry-level Help Desk role to help gain neccessary experience to
 
 <a href="https://github.com/HenryT05/OWASP-Top-10-Room-Learning">OWASP Top 10 2025 - Learning Project</a>
 - learning and exploiting the many security risks outlined in the OWASP Top 10 2025 list
+
+<a href="https://github.com/HenryT05/Python_Port_Scanner_Project">Simple Python Nmap Port Scanner</a>
+- automate port scanning, service detection, OS system identification using python.
 

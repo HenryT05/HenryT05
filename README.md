@@ -22,6 +22,7 @@ I am Seeking an entry-level Help Desk role to help gain neccessary experience to
 | DNS-based ad-blocking and network-level filtering techniques | <a href="https://github.com/HenryT05/Raspberry-Pi-Network-Wide-Adblock-Project">Raspberry Pi Network-Wide Adblocker</a> |
 | Understanding OWASP Top 10 vulnerabilities | <a href="https://github.com/HenryT05/OWASP-Top-10-Room-Learning">OWASP Top 10 2025 - Learning Project</a> |
 | Python scripting for Scanning ports | <a href="https://github.com/HenryT05/Python_Port_Scanner_Project">Simple Python Nmap Port Scanner</a> |
+| Wireguard & DNS-over-TLS Encryption | <a href="https://github.com/HenryT05/ISP_Privacy_Protection_Lab">ISP Privacy Protection Lab</a> |
 
 ## Tools 
 ### Windows / Identity 
@@ -36,6 +37,10 @@ I am Seeking an entry-level Help Desk role to help gain neccessary experience to
 - CyberChef
 - Burp Suite
 - Python
+- Nord VPN
+- NextDNS
+- GL.iNet Flint 2 Router
+- WireGuard
 
 ### Cloud / Infrastructure
 - Amazon Web Services (AWS): EC2 and Security Groups
@@ -72,4 +77,7 @@ I am Seeking an entry-level Help Desk role to help gain neccessary experience to
 
 <a href="https://github.com/HenryT05/Python_Port_Scanner_Project">Simple Python Nmap Port Scanner</a>
 - automate port scanning, service detection, OS system identification using python.
+
+<a href="https://github.com/HenryT05/ISP_Privacy_Protection_Lab">ISP Privacy Protection Lab</a>
+- demonstration on how to protect network traffic from an Internet Service Provider (ISP).
 
